@@ -5,4 +5,5 @@
 // tag::console[]
 console.log('will the message appear');
 // end::console[]
-console.log('this wont appear);
+console.log('this wont appear');
+
