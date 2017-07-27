@@ -1,4 +1,4 @@
-++++
+---
 <p>
 Content in a passthrough block is passed to the output unprocessed.
 That means you can include raw HTML, like this embedded Gist:
@@ -6,5 +6,5 @@ That means you can include raw HTML, like this embedded Gist:
 
 <script src="https://github.com/austincunningham/kujira/blob/dev/controller/accounts.js">
 </script>
-++++
+---
 but I am not seeing it
