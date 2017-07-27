@@ -1,8 +1,9 @@
-++++
-<p>
-Content in a passthrough block is passed to the output unprocessed.
-That means you can include raw HTML, like this embedded Gist:
-</p>
-<script src="https://gist.github.com/austincunningham/06367c006396baffcf8b1bef47128a9c.js"></script>
-++++
-but I am not seeing it
+Before the code
+
+[source,javascript]
+.index.js
+----
+include::index.js[tags=console]
+----
+
+After the code
