@@ -1,7 +1,7 @@
 Before the code
 
 [source,javascript]
-.index.js
+index.js
 ----
 include::index.js[tags=console]
 ----
