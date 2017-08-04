@@ -10,10 +10,16 @@ After the code
 
 Before typescript
 Typescript from different repo
-[source,typescript]
-https://github.com/austincunningham/raincatcher-core/blob/master/cloud/logger/src/Logger.ts
+[source,javascript]
+core/cloud/logger/example/index.js
+----
+include::core/cloud/logger/example/index.js[tags=allfile]
+----
 
-----
-include::https://github.com/austincunningham/raincatcher-core/blob/master/cloud/logger/src/Logger.ts
-----
 After typescript
+
+[source,typescript]
+core/cloud/datasync/example/index
+----
+include::core/cloud/datasync/example/index[tags=allfile]
+----
